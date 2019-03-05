@@ -1,11 +1,10 @@
 # Kaggle-Digit-Recognizer
 > 本人原创，转载请注明出处https://blog.csdn.net/zjn295771349/article/details/84330967
 
-ps:目前这个比赛前二三十名测试集的正确率为1，我觉得其中一个方法可能是将所有的样本（从官网下载train set和 test set及其他们的标签）喂入CNN学习，将训练集正确率训练到1.0就可以了，这样用测试集测出来的结果就可以1.0了，但是这样就失去比赛的意义了。
 
  
 
-贴出来我的比赛结果,截至到现在是TOP 15%，用的是CNN，完整的代码我会贴在最后面。后续会把源码和数据集放到github上。
+贴出来我的比赛结果,截至到现在是TOP 15%，用的是CNN，完整的代码我会贴在最后面。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181121192903897.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pqbjI5NTc3MTM0OQ==,size_16,color_FFFFFF,t_70)
 
 
